@@ -1,0 +1,191 @@
+05-06 16:30:34.798 17401 17427 I TestRunner: started: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+05-06 16:30:34.991 17401 17427 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+05-06 16:30:35.096 17401 17427 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10149; state: ENABLED
+05-06 16:30:35.189   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.194   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.218   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.220   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.264   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.267   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.311 10837 11157 D SplashScreenView: Build android.window.SplashScreenView{5b6d06b V.E...... ......ID 0,0-0,0}
+05-06 16:30:35.311 10837 11157 D SplashScreenView: Icon: view: null drawable: null size: 0
+05-06 16:30:35.311 10837 11157 D SplashScreenView: Branding: view: android.view.View{1987c8 G.ED..... ......I. 0,0-0,0 #10204a9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+05-06 16:30:35.340   700  2770 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.342   700  2770 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.342   700  2770 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.343   700  2770 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.343   700  2770 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.347   700  2770 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.348   700  2770 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.354   700  2770 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.354   700  2770 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.355   700  2770 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.356   700  2770 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.357   700  2770 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.357   700  2770 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.357   700  2770 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.359   700  2770 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.359   700  2770 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.364   700  2770 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.366   700  2770 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.367   700  2770 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.367   700  2770 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:35.403   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.405   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.415   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.419   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.444   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.447   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.482  1991  1991 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+05-06 16:30:35.483  1991  1991 E HwDetectorWithState: a: 3
+05-06 16:30:35.515   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.519   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.536   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.537   389   504 D goldfish-address-space: claimShared: Ask to claim region [0x3eded0000 0x3ee835000]
+05-06 16:30:35.539   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.545   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.548   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.597   389   504 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4965000]
+05-06 16:30:35.609   389 13840 D goldfish-address-space: claimShared: Ask to claim region [0x3f4965000 0x3f52ca000]
+05-06 16:30:35.667   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.670   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.678 17401 17433 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+05-06 16:30:35.715  7487  7575 D EGL_emulation: app_time_stats: avg=9184.21ms min=9184.21ms max=9184.21ms count=1
+05-06 16:30:35.717   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.738   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.756   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.769 17401 17433 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+05-06 16:30:35.786   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.800   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.830 17401 17433 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+05-06 16:30:35.834   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.856   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.882   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.897   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.925   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:35.945   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:35.956 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: PRE_ON_CREATE
+05-06 16:30:35.963 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:35.980   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:36.040   390  1593 W RanchuHwc: validateDisplay: layer 386 CompositionType 1, fallback
+05-06 16:30:36.111   390  1593 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+05-06 16:30:36.310   700  2084 W system_server: Long monitor contention with owner android.anim (760) at void com.android.server.wm.WindowSurfacePlacer$Traverser.run()(WindowSurfacePlacer.java:58) waiters=0 in void com.android.server.wm.ActivityClientController.overridePendingTransition(android.os.IBinder, java.lang.String, int, int) for 153ms
+05-06 16:30:36.375 16343 16343 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+05-06 16:30:36.377 16343 16343 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=44}
+05-06 16:30:36.493 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: CREATED
+05-06 16:30:36.495 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:36.522 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: STARTED
+05-06 16:30:36.526 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:36.587 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: RESUMED
+05-06 16:30:36.590 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:36.626 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: PAUSED
+05-06 16:30:36.629 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:36.651   700  2770 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.652   700  2770 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.652   700  2770 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.653   700  2770 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.653   700  2770 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.654   700  2770 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.654   700  2770 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.655   700  2770 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.655   700  2770 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.656   700  2770 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.657   700  2770 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.667   700  2770 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.668   700  2770 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.669   700  2770 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.669   700  2770 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.669   700  2770 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.671   700  2770 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.672   700  2770 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.675   700  2770 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.675   700  2770 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+05-06 16:30:36.829   412   412 W SurfaceFlinger: couldn't log to binary event log: overflow.
+05-06 16:30:36.859   412   412 W SurfaceFlinger: couldn't log to binary event log: overflow.
+05-06 16:30:37.052 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8 in: PRE_ON_CREATE
+05-06 16:30:37.055 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+05-06 16:30:37.473 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8 in: CREATED
+05-06 16:30:37.475 17401 17401 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8
+05-06 16:30:37.497 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8 in: STARTED
+05-06 16:30:37.499 17401 17401 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8
+05-06 16:30:37.510 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8 in: RESUMED
+05-06 16:30:37.512 17401 17401 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@bb190d8
+05-06 16:30:37.608 17401 17401 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066 in: STOPPED
+05-06 16:30:37.623 17401 17401 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6fb2066
+05-06 16:30:37.733 17401 17430 D HostConnection: createUnique: call
+05-06 16:30:37.740 17401 17430 D HostConnection: HostConnection::get() New Host Connection established 0x7c395f89a4d0, tid 17430
+05-06 16:30:37.786 17401 17430 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+05-06 16:30:37.812   217   217 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+05-06 16:30:37.820 17401 17430 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+05-06 16:30:37.831 17401 17430 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+05-06 16:30:37.843  3210  4534 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+05-06 16:30:37.849  3210  4534 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+05-06 16:30:37.866  3210  4534 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+05-06 16:30:37.931  3210  4534 I FontLog : Pulling font file for id = 43, cache size = 4 [CONTEXT service_id=132 ]
+05-06 16:30:37.987 17401 17430 D EGL_emulation: eglCreateContext: 0x7c395f899090: maj 2 min 0 rcv 2
+05-06 16:30:38.001  3210  4534 I FontLog : Pulling font file for id = 43, cache size = 4 [CONTEXT service_id=132 ]
+05-06 16:30:38.080 17401 17430 D EGL_emulation: eglMakeCurrent: 0x7c395f899090: ver 2 0 (tinfo 0x7c3b87c5e100) (first time)
+05-06 16:30:38.131   217   217 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+05-06 16:30:38.133 17401 17430 I Gralloc4: mapper 4.x is not supported
+05-06 16:30:38.150 17401 17430 D HostConnection: createUnique: call
+05-06 16:30:38.158 17401 17430 D HostConnection: HostConnection::get() New Host Connection established 0x7c395f8995d0, tid 17430
+05-06 16:30:38.163 17401 17430 D goldfish-address-space: allocate: Ask for block of size 0x100
+05-06 16:30:38.169 17401 17430 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3ebffe000 size 0x2000
+05-06 16:30:38.185   217   217 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+05-06 16:30:38.189 17401 17430 W Gralloc4: allocator 4.x is not supported
+05-06 16:30:38.205   389 13840 D goldfish-address-space: claimShared: Ask to claim region [0x3ecf68000 0x3ed8cd000]
+05-06 16:30:38.237 17401 17430 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+05-06 16:30:38.246   389 13840 D goldfish-address-space: claimShared: Ask to claim region [0x3f2fa0000 0x3f3905000]
+05-06 16:30:38.258   389 13840 D goldfish-address-space: claimShared: Ask to claim region [0x3f1303000 0x3f1c68000]
+05-06 16:30:38.364 17401 17416 I OpenGLRenderer: Davey! duration=759ms; Flags=1, FrameTimelineVsyncId=67391, IntendedVsync=17908686355144, Vsync=17908753021808, InputEventId=0, HandleInputStart=17908759843500, AnimationStart=17908760103500, PerformTraversalsStart=17908760319900, DrawStart=17909362979800, FrameDeadline=17908703021810, FrameInterval=17908759662900, FrameStartTime=16666666, SyncQueued=17909372311700, SyncStart=17909380768200, IssueDrawCommandsStart=17909389300500, SwapBuffers=17909442969800, FrameCompleted=17909454383100, DequeueBufferDuration=109500, QueueBufferDuration=6563800, GpuCompleted=17909453037600, SwapBuffersCompleted=17909454383100, DisplayPresentTime=0,
+05-06 16:30:38.391 17401 17401 I Choreographer: Skipped 41 frames!  The application may be doing too much work on its main thread.
+05-06 16:30:38.444   700   756 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +3s270ms
+05-06 16:30:38.820   700  2084 W InputManager-JNI: Input channel object 'ed7552f Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+05-06 16:30:38.937 17401 17401 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10149; state: ENABLED
+05-06 16:30:40.152  3257  3257 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3269
+05-06 16:30:40.155  3257  3257 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1947
+05-06 16:30:40.168  3257  3257 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+05-06 16:30:40.189 17401 17427 D EventInjectionStrategy: Creating injection strategy with input manager.
+05-06 16:30:40.196 17401 17427 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+05-06 16:30:40.198 17401 17427 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+05-06 16:30:40.199 17401 17427 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+05-06 16:30:40.540 17401 17427 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+05-06 16:30:40.598 17401 17401 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+05-06 16:30:40.598 17401 17401 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+05-06 16:30:40.599 17401 17401 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+05-06 16:30:40.629 17401 17401 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+05-06 16:30:40.629 17401 17401 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+05-06 16:30:40.630 17401 17401 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+05-06 16:30:40.678 17401 17401 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231126/com.example.lunchtray:id/salad>
+05-06 16:30:40.710  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=239.5, y[0]=109.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17911808, downTime=17911807, deviceId=-1, source=0x1002, displayId=0, eventId=-230067060 }
+05-06 16:30:40.747  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=239.5, y[0]=109.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17911854, downTime=17911807, deviceId=-1, source=0x1002, displayId=0, eventId=-642150644 }
+05-06 16:30:40.839 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:41.006 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:41.234 17401 17401 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"}' assertion on view view.getId() is <2131231205/com.example.lunchtray:id/subtotal>
+05-06 16:30:41.257 17401 17401 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231175/com.example.lunchtray:id/soup>
+05-06 16:30:41.286  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=325.5, y[0]=396.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17912378, downTime=17912377, deviceId=-1, source=0x1002, displayId=0, eventId=-320035988 }
+05-06 16:30:41.296 17401 17430 D EGL_emulation: app_time_stats: avg=162.45ms min=9.57ms max=1942.05ms count=17
+05-06 16:30:41.350  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=325.5, y[0]=396.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17912423, downTime=17912377, deviceId=-1, source=0x1002, displayId=0, eventId=-201672220 }
+05-06 16:30:41.438  7647  7647 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+05-06 16:30:41.508 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:41.623 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:41.686  1096  1096 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+05-06 16:30:42.206 17401 17401 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $3.00"}' assertion on view view.getId() is <2131231205/com.example.lunchtray:id/subtotal>
+05-06 16:30:42.235 17401 17401 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231109/com.example.lunchtray:id/potatoes>
+05-06 16:30:42.258  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=243.5, y[0]=637.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17913352, downTime=17913352, deviceId=-1, source=0x1002, displayId=0, eventId=-566941086 }
+05-06 16:30:42.299 17401 17430 D EGL_emulation: app_time_stats: avg=32.34ms min=12.93ms max=66.11ms count=24
+05-06 16:30:42.494  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=243.5, y[0]=637.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17913567, downTime=17913352, deviceId=-1, source=0x1002, displayId=0, eventId=-168406419 }
+05-06 16:30:42.735 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:42.740 10630 10802 D AudioFlinger: mixer(0x7f56f186aa60) throttle end: throttle time(16)
+05-06 16:30:42.745 10630 10802 D AF::Track: interceptBuffer: took 1496us to intercept 0 tracks
+05-06 16:30:42.843 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:43.206 17401 17401 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.00"}' assertion on view view.getId() is <2131231205/com.example.lunchtray:id/subtotal>
+05-06 16:30:43.231 17401 17401 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231116/com.example.lunchtray:id/rice>
+05-06 16:30:43.256  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=225.5, y[0]=924.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17914350, downTime=17914350, deviceId=-1, source=0x1002, displayId=0, eventId=-12487613 }
+05-06 16:30:43.294  7487  7487 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=225.5, y[0]=924.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17914393, downTime=17914350, deviceId=-1, source=0x1002, displayId=0, eventId=-121350759 }
+05-06 16:30:43.318 17401 17430 D EGL_emulation: app_time_stats: avg=33.23ms min=12.56ms max=63.07ms count=23
+05-06 16:30:43.476 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:43.491 10630 10802 D AudioFlinger: mixer(0x7f56f186aa60) throttle end: throttle time(10)
+05-06 16:30:43.614 10631 10631 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:377 failure: Result::NOT_SUPPORTED
+05-06 16:30:43.906 17401 17401 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $1.50"}' assertion on view view.getId() is <2131231205/com.example.lunchtray:id/subtotal>
+05-06 16:30:43.923 17401 17427 I TestRunner: finished: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
